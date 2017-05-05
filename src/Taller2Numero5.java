@@ -38,7 +38,7 @@
         Taller2Numero5 pa = new Taller2Numero5();
         int arr[] = {10, 4, 1, 6, 2};
         int n = arr.length;
-        System.out.println("The product array is : ");
+        System.out.println("El conjunto de productos es : ");
         pa.productArray(arr, n);
     }
 }
